@@ -9,9 +9,9 @@ A FastAPI-based backend service for solving 4-digit CAPTCHA images using PyTorch
   <p>9792 showing that it solved as 9792 captcha</p>
 </div>
 
-## Authors:
+## Authors
 
-@nihalxx3 & @Tanvir-Chowdhury
+[@nihalxx3](https://github.com/nihalxx3) & [@Tanvir-Chowdhury](https://github.com/Tanvir-Chowdhury)
 
 ## DISCLAIMER
 
