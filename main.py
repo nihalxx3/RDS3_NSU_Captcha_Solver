@@ -92,7 +92,7 @@ def load_model():
     
     print("🔄 Loading PyTorch digit classifier model...")
     
-    # Model file paths (relative to backend folder)
+    # Model file paths (relative to this folder)
     mapping_path = "models/class_to_idx.json"
     weights_path = "models/digit_cnn_best.pt"
 

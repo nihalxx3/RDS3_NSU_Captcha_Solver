@@ -32,7 +32,7 @@ Warning: Users are strongly encouraged to read through the complete source code 
 
 ### 1. Configure the Environment
 
-Navigate to the `backend` directory where your `main.py` is located.
+Navigate to the directory where your `main.py` is located.
 
 ### 2. Install Dependencies
 
